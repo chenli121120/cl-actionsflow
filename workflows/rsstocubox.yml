@@ -4,7 +4,6 @@ on:
       - https://rsshub.app/latepost
       - https://getpocket.com/users/chenli121120/feed/unread
       - https://bg.raindrop.io/rss/public/26293239
-      - https://rsshub.app/wechat/ce/59414cee04ac174e481d135d
 jobs:
   request:
     name: Make a HTTP Request
