@@ -2,6 +2,7 @@ on:
   rss:
     url:
       - https://rsshub.app/latepost
+      - https://getpocket.com/users/chenli121120/feed/unread
 jobs:
   request:
     name: Make a HTTP Request
