@@ -3,6 +3,7 @@ on:
     url:
       - https://rsshub.app/latepost
       - https://getpocket.com/users/chenli121120/feed/unread
+      - https://bg.raindrop.io/rss/public/26293239
 jobs:
   request:
     name: Make a HTTP Request
