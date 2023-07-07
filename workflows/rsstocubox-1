@@ -1,0 +1,30 @@
+on:
+  rss:
+    url:
+      - https://rsshub.app/sspai/matrix
+      - https://shyrz.me/rss/
+      - https://weiyexing.ml/rss.xml
+      - https://geekplux.com/atom.xml
+      - https://invisible.school/rss/
+      - https://springwood.me/feed
+      - https://catcoding.me/atom.xml
+      - https://invisible.school/rss
+      - https://x.geekbb.ml/feed?format=xml
+      - https://www.pseudoyu.com/zh/index.xml
+jobs:
+  request:
+    name: Make a HTTP Request
+    runs-on: ubuntu-latest
+    steps:
+      - name: Make a HTTP Request
+        uses: actionsflow/axios@v1
+        with:
+          url: ${{ secrets.cubox }}
+          method: POST
+          body: |
+            {
+              "type":"url",
+              "content":"${{ on.rss.outputs.link }}", 
+              "title":"${{ on.rss.outputs.title }}",
+              "folder":"rss"
+            }
