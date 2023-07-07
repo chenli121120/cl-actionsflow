@@ -5,6 +5,8 @@ on:
       - https://getpocket.com/users/chenli121120/feed/unread
       - https://bg.raindrop.io/rss/public/26293239
       - http://feeds.feedburner.com/ruanyifeng
+      - https://chenli121120.top/zhihu/zhuanlan/diqiuzhishiju
+      - https://plink.anyfeeder.com/weixin/maobidao
 jobs:
   request:
     name: Make a HTTP Request
