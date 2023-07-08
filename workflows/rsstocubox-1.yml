@@ -2,10 +2,10 @@ on:
   rss:
     url:
       - https://rsshub.app/sspai/matrix
-      - https://shyrz.me/rss/
+      - https://shyrz.me/rss
       - https://weiyexing.ml/rss.xml
       - https://geekplux.com/atom.xml
-      - https://invisible.school/rss/
+      - https://invisible.school/rss
       - https://springwood.me/feed
       - https://catcoding.me/atom.xml
       - https://invisible.school/rss
