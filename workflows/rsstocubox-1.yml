@@ -2,7 +2,6 @@ on:
   rss:
     url:
       - https://rsshub.app/sspai/matrix
-      - https://shyrz.me/rss
       - https://weiyexing.ml/rss.xml
       - https://geekplux.com/atom.xml
       - https://invisible.school/rss
