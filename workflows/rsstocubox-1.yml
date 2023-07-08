@@ -11,6 +11,8 @@ on:
       - https://invisible.school/rss
       - https://x.geekbb.ml/feed?format=xml
       - https://www.pseudoyu.com/zh/index.xml
+      - https://rsshub.app/jiemian/list/32
+      - https://rsshub.app/jiemian/list/65
 jobs:
   request:
     name: Make a HTTP Request
