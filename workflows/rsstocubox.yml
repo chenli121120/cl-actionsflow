@@ -15,6 +15,11 @@ on:
       - https://feedpress.me/wx-dreamytalks
       - https://rsshub.app/wechat/mp/msgalbum/MzA5NTExODU1OQ==/1504932763378991106
       - https://rsshub.app/wechat/mp/msgalbum/MjM5MjAzODU2MA==/1883283321711820801
+      - https://rsshub.app/jiemian/list/32
+      - https://rsshub.app/jiemian/list/65
+      - https://invisible.school/rss
+      - https://springwood.me/feed
+      - https://rsshub.app/sspai/matrix 
 jobs:
   request:
     name: Make a HTTP Request
