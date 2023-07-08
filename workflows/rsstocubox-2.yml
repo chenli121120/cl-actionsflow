@@ -1,17 +1,7 @@
 on:
   rss:
     url:
-      - https://rsshub.app/sspai/matrix
-      - https://weiyexing.ml/rss.xml
-      - https://geekplux.com/atom.xml
-      - https://invisible.school/rss
-      - https://springwood.me/feed
-      - https://catcoding.me/atom.xml
-      - https://invisible.school/rss
-      - https://x.geekbb.ml/feed?format=xml
-      - https://www.pseudoyu.com/zh/index.xml
-      - https://rsshub.app/jiemian/list/32
-      - https://rsshub.app/jiemian/list/65
+      - https://api.feedless.org/stream/bucket/500dbd80-4a0a-4162-82af-8fbd6dade6bd/atom
 jobs:
   request:
     name: Make a HTTP Request
