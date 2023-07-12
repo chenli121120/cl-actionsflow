@@ -18,7 +18,9 @@ on:
       - https://rsshub.app/jiemian/list/32
       - https://invisible.school/rss
       - https://springwood.me/feed
-      - https://rsshub.app/sspai/matrix 
+      - https://rsshub.app/sspai/matrix
+      - https://circleghost.substack.com/feed
+      - https://clip.demochen.com/feed.xml
 jobs:
   request:
     name: Make a HTTP Request
