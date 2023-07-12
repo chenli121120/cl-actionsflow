@@ -19,7 +19,6 @@ on:
       - https://invisible.school/rss
       - https://springwood.me/feed
       - https://rsshub.app/sspai/matrix 
-      - https://rsshub.app/zhubai/top20
 jobs:
   request:
     name: Make a HTTP Request
