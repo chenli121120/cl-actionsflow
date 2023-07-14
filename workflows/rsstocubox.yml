@@ -20,7 +20,7 @@ on:
       - https://springwood.me/feed
       - https://rsshub.app/sspai/matrix
       - https://circleghost.substack.com/feed
-      - https://clip.demochen.com/feed.xml
+      - https://rsshub.app/youzhiyouxing/materials
 jobs:
   request:
     name: Make a HTTP Request
