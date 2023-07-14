@@ -1,25 +1,12 @@
 on:
   rss:
     url:
-      - https://rsshub.app/latepost
       - https://getpocket.com/users/chenli121120/feed/unread
       - https://bg.raindrop.io/rss/public/26293239
       - http://feeds.feedburner.com/ruanyifeng
-      - https://chenli121120.top/zhihu/zhuanlan/diqiuzhishiju
-      - https://rsshub.app/wechat/mp/msgalbum/MjM5MjAzODU2MA==/1883283321711820801
       - https://feedpress.me/wx-lxiaoshengmiao
-      - https://rsshub.app/wechat/mp/msgalbum/MjM5MTA5MDM3NA==/2007576314177716227
-      - https://rsshub.app/wechat/mp/msgalbum/MzA3MzU0OTQzMw==/2710491819117166594
-      - https://rsshub.app/wechat/mp/msgalbum/MzI5NzA5MDEzNg==/2737029876410662914
-      - https://rsshub.app/wechat/mp/msgalbum/MzIwMDczNTE3OQ==/1722484470244573185
       - https://feedpress.me/wx-dreamytalks
-      - https://rsshub.app/wechat/mp/msgalbum/MzA5NTExODU1OQ==/1504932763378991106
-      - https://rsshub.app/wechat/mp/msgalbum/MjM5MjAzODU2MA==/1883283321711820801
-      - https://invisible.school/rss
       - https://springwood.me/feed
-      - https://rsshub.app/sspai/matrix
-      - https://circleghost.substack.com/feed
-      - https://rsshub.app/youzhiyouxing/materials
 jobs:
   request:
     name: Make a HTTP Request
