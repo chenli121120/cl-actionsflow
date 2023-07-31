@@ -6,7 +6,6 @@ on:
       - http://feeds.feedburner.com/ruanyifeng
       - https://feedpress.me/wx-lxiaoshengmiao
       - https://feedpress.me/wx-dreamytalks
-      - https://rsshub.app/latepost
       - https://www.thediff.co/archive/rss/
       - https://rsshub.app/jiemian/list/32
 jobs:
