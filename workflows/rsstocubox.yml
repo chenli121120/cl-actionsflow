@@ -9,6 +9,9 @@ on:
       - https://www.thediff.co/archive/rss/
       - https://rsshub.app/jiemian/list/32
       - https://rsshub.app/latepost
+      - https://rsshub.app/wechat/mp/msgalbum/MjM5MjAzODU2MA==/1883283321711820801
+      - https://rsshub.app/wechat/mp/msgalbum/MzI5NzA5MDEzNg==/2737029876410662914
+      - https://rsshub.app/wechat/mp/msgalbum/MzA5NTExODU1OQ==/1504932763378991106
 jobs:
   request:
     name: Make a HTTP Request
