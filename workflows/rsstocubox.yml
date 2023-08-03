@@ -14,6 +14,10 @@ on:
       - https://rsshub.app/wechat/mp/msgalbum/MzA5NTExODU1OQ==/1504932763378991106
       - https://rsshub.app/wechat/mp/msgalbum/MzUyNDgyMzIzNA==/1429533412725161985
       - https://rsshub.app/wechat/mp/msgalbum/MzUyNDgyMzIzNA==/1370769212465283072
+      - https://clip.demochen.com/feed.xml
+      - https://rsshub.app/sspai/index
+      - https://feedx.net/rss/ifanr.xml
+      - https://clip.owenyoung.com/feed.xml
 jobs:
   request:
     name: Make a HTTP Request
